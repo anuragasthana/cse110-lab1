@@ -23,7 +23,7 @@ In the words of a famous gamer (allegedly):
 
 # Coding
 
-I need to code outside of class???
+Coding for three hours stright, this is all I can see:
 ```
 Segmentation fault (core dumped)
 ```
@@ -32,7 +32,7 @@ Segmentation fault (core dumped)
 
 Favorite superheroes include:
 - Spider-Man
-- Iron Man
+- Batman
 - Spider-Man
 - Wait I already said Spider-Man
 
@@ -56,6 +56,6 @@ Domestic Airline Tier List:
 
 ![Haikyuu!](https://static3.cbrimages.com/wordpress/wp-content/uploads/2020/07/haikyuu-season4-1093.jpg)
 
-(For real though this show is amazing ^)
+(For real though Haikyuu is amazing ^)
 
 ## OK BYEE :)
