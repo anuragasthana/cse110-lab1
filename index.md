@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+### Welcome to Anurag's Page!
 
-You can use the [editor on GitHub](https://github.com/anuragasthana/cse110-lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My personal website is right [here](http://anuragasthanasjc.com)! (It's not very good though)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Stuff I Like:
 
-### Markdown
+# Star Wars
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**May the force be with you.**
 
-```markdown
-Syntax highlighted code block
+# Harry Potter
 
-# Header 1
-## Header 2
-### Header 3
+*Yer a wizard, Harry.*
 
-- Bulleted
-- List
+# NBA Basketball
 
-1. Numbered
-2. List
+~Lebron James is the greatest NBA player of all time.~ (Of course it's Jordan)
 
-**Bold** and _Italic_ and `Code` text
+# Video Games
 
-[Link](url) and ![Image](src)
+In the words of a famous gamer (allegedly):
+> If you lose, it's never your fault, it's always lag.
+
+# Coding
+
+I need to code outside of class???
+```
+Segmentation fault (core dumped)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Superheroes
 
-### Jekyll Themes
+Favorite superheroes include:
+- Spider-Man
+- Iron Man
+- Spider-Man
+- Wait I already said Spider-Man
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anuragasthana/cse110-lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Traveling
 
-### Support or Contact
+Domestic Airline Tier List:
+1. JetBlue
+2. SouthWest
+3. Alaska
+4. Delta
+5. American
+6. Everything else
+7. United
+8. Spirit
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Favorite Emoji
+
+:eyes:
+
+# Anime?
+
+![Haikyuu!](https://static3.cbrimages.com/wordpress/wp-content/uploads/2020/07/haikyuu-season4-1093.jpg)
+
+(For real though this show is amazing ^)
+
+## OK BYEE :)
